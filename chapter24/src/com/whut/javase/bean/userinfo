@@ -1,0 +1,7 @@
+# 在属性配置文件中：# 是注释
+# 建议key和value之间使用=的方式
+# =左边是key，=右边是value
+# 属性配置文件的key重复的话，value会自动覆盖
+username=jack
+# password=980218
+password=181218
