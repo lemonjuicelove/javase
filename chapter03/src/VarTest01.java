@@ -27,6 +27,8 @@ public class VarTest01 {
         System.out.println(i);
         System.out.println(i);
 
+        System.out.println("dev");
+
     }
 
 
